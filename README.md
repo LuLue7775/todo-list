@@ -5,11 +5,8 @@
 
 # To Do List
 
-![ToDoList](https://socialify.git.ci/tusharnankani/ToDoList/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+#### This web page is hosted [here!](https://628158528e33d575be2f944c--elegant-cascaron-8f2f7f.netlify.app/)
 
-#### This web page is hosted [here!](https://tusharjustdoit.netlify.app/)
-
-- View the local installation in the [CONTRUBUTING.md](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTING.md).
 
 ### *Added Features*:
 
