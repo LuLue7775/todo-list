@@ -101,7 +101,7 @@ body {
   }
   
   /* Animation */
-#title {
+/* #title {
     animation: animated-text 2s steps(11,end) 0.5s 1 normal both,
         animated-cursor 750ms steps(11,end) infinite;
   }
@@ -109,7 +109,7 @@ body {
 #title.darker-title {
     animation: animated-text 2s steps(11,end) 0.5s 1 normal both, darker-animated-cursor 750ms steps(11,end) infinite;
 }
-  
+   */
   /* text animation */
   
   @keyframes animated-text{
@@ -131,6 +131,7 @@ body {
 
 form {
     display: flex;
+    /* flex-direction: column; */
     font-size: 1.7rem;
     justify-content: center;
     margin: 15px 0;
@@ -153,7 +154,7 @@ form input {
 
 /* Input themes */
 form input.standard-input {
-    background-color: #181a1a;
+    background-color: #588888;
     color: rgb(247, 226, 223);
 }
 
@@ -183,7 +184,7 @@ form input:hover {
 }
 
 form input.standard-input:hover {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(121, 116, 116);
 }
 
 form input.light-input:hover {
@@ -336,14 +337,14 @@ form button {
         font-size: 2rem;
     }
 
-    #title {
+    /* #title {
         animation: 
             animated-text 3s steps(16,end) 0.5s 1 normal both,
             animated-cursor 750ms steps(16,end) infinite;
         margin-bottom: 10px;
         margin-top: 30px;
         max-width: 330px;
-    }
+    } */
 }
 
 @media only screen and (max-width: 400px) {
@@ -351,12 +352,12 @@ form button {
         font-size: 1.5rem;
     }
 
-    #title {
+    /* #title {
         animation: 
             animated-text 3.5s steps(16,end) 0.5s 1 normal both,
             animated-cursor 750ms steps(16,end) infinite;
         max-width: 255px;
-    }
+    } */
 }
 
 @media only screen and (max-width: 400px) {
